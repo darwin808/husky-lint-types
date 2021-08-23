@@ -1,0 +1,6 @@
+{
+  "hooks": {
+    "applypatch-msg": "✅✅✅✅ You win this time...👋👋👋 I am committing this now. ✅✅✅✅",
+    "pre-commit": "lint-staged "
+  }
+}
